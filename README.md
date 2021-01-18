@@ -1,4 +1,4 @@
-# PFAS_Map_MaDE_UB
+# PFAS-Map MaDE@UB
 
 This public repository provides the datasets, code, and supporting figures for the paper "A database framework for rapid screening of structure-function relationships in PFAS chemistry". Please check the paper's "code availability" and "data availability" sections for more information.
 
