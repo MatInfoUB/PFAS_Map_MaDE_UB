@@ -1,0 +1,23 @@
+NAME,FULL_NAME,SMILES,PROPERTY,Binding %
+PFBA,Perfluorobutanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,106,106
+PFHxA,Perfluorohexanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,43,43
+PFHpA,Perfluoroheptanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,7,7
+PFOA,Perfluorooctanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,4,4
+PFNA,Perfluorononanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,18,18
+PFDcA,Perfluorodecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,46,46
+PFUnA,Perfluoroundecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,74,74
+PFDoA,Perfluorododecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,91,91
+PFTdA,Perfluorotetradecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,71,71
+7H-PFHpA,7H-Perfluoroheptanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,45,45
+FTUA (6:2),2H-Perfluoro-2-octenoic acid,OC(=O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,47,47
+PFBS,Perfluorobutanesulfonate,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,69,69
+PFHxS,Perfluorohexanesulfonate,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3,3
+PFOS,Perfluorooctanesulfonate,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,1,1
+PFDS,Perfluorodecanesulfonate,[Na+].[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,122,122
+FTOH (6:2),6:2 Fluorotelomer alcohol,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,117,117
+FTOH (8:2),8:2 Fluorotelomer alcohol,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,117,117
+N-MeFOSE,N-Methyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,119,119
+N-EtFOSE,N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide,CCN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,122,122
+FOSA,Perfluorooctanesulfonamide,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,32,32
+N-MeFOSA,N-Methylperfluorooctanesulfonamide,CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,114,114
+N-EtFOSA,N-Ethylperfluorooctanesulfonamide,CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,112,112
